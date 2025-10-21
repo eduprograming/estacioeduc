@@ -9,7 +9,7 @@ char cartaA[20] = "A01";//Letra representando um dos 8 estados
 char codestadoA[20]="Acre";//Estado
 char cidadeA[20]= "Rio Branco";//Nome da cidade
 int populacaoA =364.756;//Numero de habitantes
-float areaA = 8.836;//Área em quilometros quadrados
+float areaA = 8.836;//Área em km quadrados
 float pibA = 10955674.857;//Produto Interno Bruto da cidade
 int NpontoturA = 20;//Quantidade de pontos turísticos na cidade
 
@@ -17,7 +17,7 @@ char cartaB[20] = "B02";//Letra representando um dos 8 estados
 char codestadoB[20]= "Bahia";//Estado
 char cidadeB[20] = "Salvador";//Nome da cidade
 int populacaoB = 2564204;//Numero de habitantes
-float areaB = 693.442;//Área em quilometros quadrados
+float areaB = 693.442;//Área em km quadrados
 float pibB = 62954487;//Produto Interno Bruto da cidade
 int NpontoturB =30;//Quantidade de pontos turísticos na cidade
 
